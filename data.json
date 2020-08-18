@@ -2,6 +2,7 @@
 	"details":{
 		"name":"Andhra Pradesh State Skill Development Corporation(APSSDC)",
 		"age":"5 years",
+		"image":"Image.png",
 		"courses":["Web Design using ReactJS","Python Programming","Machine learning"]
 },
 "trainers":[

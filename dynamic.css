@@ -1,0 +1,11 @@
+#name{
+	background-color: #f4f4f4;
+
+}
+.age{
+	background-color: #f4f4f4;
+}
+table,td,tr{
+	border: 2px solid #000;
+	border-collapse: collapse;
+}
