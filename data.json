@@ -1,0 +1,50 @@
+{
+	"details":{
+		"name":"Andhra Pradesh State Skill Development Corporation(APSSDC)",
+		"age":"5 years",
+		"courses":["Web Design using ReactJS","Python Programming","Machine learning"]
+},
+"trainers":[
+	{
+		"name":"V.Gayathri Devi",
+		"phone":"999999999",
+		"email":"Gayathridevi@apssdc.in",
+		"salary":30000,
+		"experience":"5 years"
+	},
+	{
+		"name":"Swamy kankipati",
+		"phone":"988888888888",
+		"email":"Swamykankipati@apssdc.in",
+		"salary":40000,
+		"experience":"4.5 years"
+	},
+	{
+		"name":"D.Sairam",
+		"phone":"9999888888",
+		"email":"sairam@apssdc.in",
+		"salary":50000,
+		"experience":"5 years"
+	},
+	{
+		"name":"N.Rajesh",
+		"phone":"99999000000",
+		"email":"rajesh.n@apssdc.in",
+		"salary":60000,
+		"experience":"5 years"
+	},
+	{
+		"name":"N.Surya Narayana",
+		"phone":"9988888999",
+		"email":"surya@apssdc.in",
+		"salary":40000,
+		"experience":"4.5 years"
+	},{
+		"name":"G.K. Raja",
+		"phone":"99989554789",
+		"email":"raja@apssdc.in",
+		"salary":70000,
+		"experience":"5 years"
+	}
+]
+}
